@@ -2,13 +2,16 @@ h2, h1 {
     margin: 0;
     text-align: center;
 }
+
 h2 {
     font-size: 20px;
 }
+
 h3 {
     font-size: 30px;
     font-style: italic;
 }
+
 p {
     font-size: 15px;
     font-style: oblique;
@@ -21,4 +24,14 @@ p {
 #section1 {
     display: flex;
     justify-content: space-around;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+footer nav a {
+    text-decoration: none;
+    font-size: 25px;
 }

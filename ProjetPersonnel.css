@@ -1,29 +1,18 @@
-h2, h1 {
-    margin: 0;
-    text-align: center;
-}
-
-h2 {
-    font-size: 20px;
-}
-
-h3 {
+h1 {
     font-size: 30px;
     font-style: italic;
 }
 
-p {
-    font-size: 15px;
-    font-style: oblique;
-}
-
-#passetemps {
-    width: 400px;
-}
-
-#section1 {
+#section2 {
     display: flex;
-    justify-content: space-around;
+    font-style : normal;
+    color : darkblue;
+}
+
+#section3 {
+    display: flex;
+    font-style : normal;
+    color : darkblue;
 }
 
 footer ul {

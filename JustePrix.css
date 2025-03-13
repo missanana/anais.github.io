@@ -1,18 +1,11 @@
-h1 {
-    font-size: 30px;
-    font-style: italic;
-}
-
-#section2 {
+#section4 {
     display: flex;
     font-style : normal;
-    color : darkblue;
 }
 
-#section3 {
-    display: flex;
-    font-style : normal;
-    color: darkblue;
+article {
+    color: darkslateblue;
+    font-style : italic;
 }
 
 footer ul {
@@ -27,7 +20,7 @@ footer ul li {
     margin: 0;
 }
 
-footer ul a {
+footer ul li a {
     text-decoration: none;
     font-size: 25px;
     padding: 10px 20px; /* Ajoute du padding à l'intérieur des boutons */

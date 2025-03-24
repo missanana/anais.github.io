@@ -4,7 +4,7 @@
 }
 
 article {
-    color: darkslateblue;
+    color: blue;
     font-style : italic;
 }
 
@@ -33,3 +33,13 @@ footer ul li a {
 footer ul a:hover {
     background-color: #0056b3; /* Couleur au survol */
 }
+
+#img {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start; 
+    gap: 20px;
+}
+
+
+

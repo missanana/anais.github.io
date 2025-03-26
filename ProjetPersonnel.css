@@ -3,6 +3,11 @@ h1 {
     font-style: italic;
 }
 
+article {
+    color: blue;
+    font-style : italic;
+}
+
 #section2 {
     display: flex;
     font-style : normal;
